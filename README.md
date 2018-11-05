@@ -71,7 +71,9 @@ https://<service_name>.mybluemix.net/<preson_name>
 
 (例) https://<service_name>.mybluemix.net/安倍首相
 
+
 ## 参考リンク
-* [cloud_foundry]: https://github.com/cloudfoundry/cli#downloads
-* [git]: https://git-scm.com/downloads
-* [sign_up]: https://bluemix.net/registration
+
+- [Cloud_foundry](https://github.com/cloudfoundry/cli#downloads)
+- [git](https://git-scm.com/downloads)
+- [IBM Clouod サインアップ](https://bluemix.net/registration)
